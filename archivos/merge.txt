@@ -1,5 +1,5 @@
 Sara Isabel Suarez Londoño
 18
-En la asignatura espero encontrar nuevas herramientas para desarrollar mis habilidades de programación
+En la asignatura espero encontrar nuevas herramientas para desarollar mis habilidades de programación
 Se puede commit porque la carpeta no esta vacía.
 Porque entraria en conflicto en el repositorio.
